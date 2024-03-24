@@ -1,6 +1,6 @@
 # FinFeed - The Financial News Pulse
 
-FinFeed is a Python-based financial news aggregator project. FinFeed collects news articles from popular financial news websites and performs sentiment analysis on them. FinFeed then providing users with aggregated news along with sentiment analysis scores and keyword tagging.
+FinFeed is a Python-based financial news aggregator project. FinFeed collects news articles from popular financial news websites and performs sentiment analysis on them. FinFeed then provides users with aggregated news along with sentiment analysis scores and keyword tagging.
 
 FinFeeds aim is to help users stay informed about financial news and trends, enabling them to make more informed investment decisions.
 
